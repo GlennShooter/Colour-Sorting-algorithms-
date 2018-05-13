@@ -103,7 +103,7 @@ def plot_colours(colours, permutation):
 
 
 ######### Setup #######
-data = read_file("C:\\Users\\Glenn's pc\\Documents\\Uni\\ITNPBD8\\Assignment\\colours.txt") #Read in data file
+data = read_file("ENTER DATA PATH HERE") #Read in data file
 
 #Create 3 data sets,10, 100 and 1000 colour datasets
 f_size = data[0]
