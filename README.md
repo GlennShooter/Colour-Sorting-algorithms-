@@ -3,8 +3,11 @@
 Algorithms are:
 
 1. Random Search 
-2.Hill Climber
+2. Hill Climber
 3. Iterative Local Search 
 4. Genetic Algorithm
+
+There is also 1 data file:
+1. colours.txt
 
 This repository includes the 4 algorithms and a colour file to test them.
