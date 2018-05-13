@@ -6,8 +6,6 @@ Genetic Algorithm = Assignment_genetic.py
 Report = Assignment report final.pdf
 
 Using the programms themselves:
-The programmes are default set the the stopping criteria used for testing these values can be changes the actual variable for the stopping 
-criteria is labeled in the text.
 
 Each program has three data sets the 10,100 and 1000 colour sample sets by default the programms are all set to run on the 1000 colour 
 sample data set but this can be changed by altering the sample variable within the proggram.  The sample variable has 3 possible values:
